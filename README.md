@@ -12,4 +12,5 @@ This package is an example following the article [How to create a Laravel 5 pack
 [Povilas Korop](http://laraveldaily.com/author/povilas/)
 
 ## License
+
 MIT
