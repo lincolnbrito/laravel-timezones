@@ -4,7 +4,7 @@ namespace LincolnBrito\LaravelTimezones;
 
 use Illuminate\Support\ServiceProvider;
 
-class LaravelTimezonesServiceProvider extends ServiceProvider
+class TimezonesServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap the application services.
